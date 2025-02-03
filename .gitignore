@@ -1,0 +1,5 @@
+!cs231n/datasets/get_datasets.sh
+
+cs231n/datasets/**
+**/__pycache__
+notes
